@@ -9,10 +9,11 @@ html {
 body {
 	font-family: Arial, Helvetica, sans-serif;
     font-size: 100%;
-    width: 800px;
+    width: 98%;
     margin: 0 auto;
     border: 3px solid #931420;
     background-color: #fffded;
+	max-width:360px;
 }
 a:focus, a:hover {
 	font-style: italic;
@@ -51,6 +52,7 @@ header img {
 	margin: 0;
 	padding: 0;
 	position: relative;
+	width:100%;
 }
 #nav_menu ul li {
 	float: left;
