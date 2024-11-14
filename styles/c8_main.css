@@ -13,7 +13,7 @@ body {
     margin: 0 auto;
     border: 3px solid #931420;
     background-color: #fffded;
-    max-width: 600px; /* adjusted from 960px to 800px */
+    max-width: 800px; /* adjusted from 960px to 800px */
 }
 a:focus, a:hover {
     font-style: italic;
