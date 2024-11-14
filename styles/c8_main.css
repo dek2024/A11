@@ -43,7 +43,7 @@ header img {
     text-shadow: 2px 2px 2px #800000;
 }
 
-/* navigation menu styles */
+/* the styles for the navigation menu */
 #nav_menu ul {
     list-style-type: none;
     margin: 0;
@@ -52,10 +52,10 @@ header img {
 }
 #nav_menu ul li {
     float: left;
+    width: 16.67%; /* moved width from <a> to <li> */
 }
 #nav_menu ul li a {
     display: block;
-    width: 16.67%; /* converted to percentage */
     text-align: center;
     padding: 1em 0;
     text-decoration: none;
